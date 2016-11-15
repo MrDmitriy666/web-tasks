@@ -3,6 +3,7 @@
 1) Посмотреть код нашего прошлого урока и все повторить!
 
 2) Прочитать гайды(учить не надо, просто знать, что такие фишки есть) о:
+
     * [flexbox](http://html5book.ru/css3-flexbox/)
     * [grid](http://css-live.ru/css/zolotaya-rybka-css3-grid-layout.html)
     * `float: left`, `float: right`
@@ -11,6 +12,7 @@
 3) Повторить(просто знать это и понимать) [css селекторы](http://www.puzzleweb.ru/css/selectors.php)
 
 4) К следующему уроку надо знать следующие html теги:
+
     * header
     * footer
     * form (пока не стоит вдаваться в подробности про его аттрибуты method и action)
@@ -24,10 +26,12 @@
     * P.S: Возможно, я подзабыл некоторые важные теги. Если при верстке макета я пойму, что дал не все, я их объясню. Но то, что я даю в дз, объяснять не буду. Максимум отвечу на вопросы, которые у вас по ним возникли.
 
 5) Краем глаза пробежать по новым тегам стандарта HTML5:
+
     * http://htmlbook.ru/html5
 	* http://html-5.ru/uchebnik-html5
 	
 6) Знать и понимать, что делают CSS свойства:
+
     * background
     * background-color
     * background-size
@@ -40,11 +44,13 @@
     * border-radius
     
 7) ОБЯЗАТЕЛЬНО знать и понимать:
+
     * [Приоритетность стилей в css](http://seodon.ru/css/prioritety-stilej.php)
 	* [Вендорные префиксы в css](http://yapro.ru/web-master/css/vendornie-prefiksi.html)
 	* [Отступы между inline блоками](http://css-live.ru/articles/zagadochnye-otstupy-mezhdu-inlajn-blokami.html)		
 
 8) Узнать, что это такое (только узнать, не более того):
+
     * http://fontawesome.io/
     * http://getbootstrap.com/
 	* http://foundation.zurb.com/

@@ -42,6 +42,7 @@
 * z-index
 * text-align
 * border-radius
+* overflow
     
 7) ОБЯЗАТЕЛЬНО знать и понимать:
 
